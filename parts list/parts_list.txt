@@ -1,0 +1,21 @@
+1	TalentCell 12V 6Ah LiFePO4 Battery Pack LF4011, 2000 Cycles
+ 
+	Rechargeable 12.8V 76.8Wh Lithium Iron Phosphate Battery with 14.6V Charger
+
+2	Freenove 4WD Smart Car Kit for Raspberry Pi 4 B 3 B+ B A+, Face Tracking, Line Tracking, Light Tracing, Obstacle Avoidance, Colorful Light, Ultrasonic Camera Servo (Raspberry Pi NOT Included)
+
+3	Miuzei 20KG Servo Motor High Torque RC Servo Metal Gear DS3218, Control Angle 270°
+
+4	Cat Construction Steel Toy Dump Truck, Yellow
+
+5	MG996R 55g Metal Gear Torque Digital Servo Motor
+
+6	SZDoit Professional Metal G6 Robotic Arm Claw, Hand Fingers Paw Gripper Clamp with High Torque MG996R Servo with Gimbal Grabbing,
+
+7	Professional 4WD Metal Tank Car Chassis Large Big Load Robot Chassis Kit with 4pcs Encoder DC Motors
+
+8	Raspberry Pi 4 Model B 2019 Quad Core 64 Bit WiFi Bluetooth (4GB)
+
+9	3D printing costs
+
+10	Arduino uno rev 3
